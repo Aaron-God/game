@@ -1,0 +1,211 @@
+Package: aaron.ShadowTrackerExtra
+Version: 0.18.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/aaron.shadowtrackerextra_0.18.0_iphoneos-arm.deb
+Size: 73612
+MD5sum: d70ef2251610e42a7fb703aed09cbaf3
+SHA1: 30df7119cb0370e480b015f23eb70c57adf9a942
+SHA256: 1064088543a94bd77836939e3194e3a3870e42d6b66e0474f71448cef869d7ca
+Section: 游戏(Games)
+Priority: optional
+Description: 国服&台服&国际服&国际体验服通用
+Author: 水哥
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 懒人插件公开版
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.gm
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debs/aaron.gm_2.0_iphoneos-arm.deb
+Size: 1066136
+MD5sum: 21b82a3d715ae6436025c7c92259ae60
+SHA1: 3a14a83e84f5189a7d9ec20d8aeaf5ef98f5776b
+SHA256: 33e04a42a3b70b591187d950ff7aa7f48739cceba591c551c4f72bedba012785
+Section: 游戏(Games)
+Description: PUBG MOBILE 0.16.0 Mod Menu by zuwL!
+Author: （国际服/国际体验服）
+Icon: https://aaronc.cn/img/game2.jpg
+Name: PUBG MOBILE 0.18.0 Mod Menu
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.miduo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/aaron.miduo_1.0_iphoneos-arm.deb
+Size: 734920
+MD5sum: 33e9e851c6430198dee6b84822ba9fb7
+SHA1: 5c72d38ddc823be94db8c3b268be385beaa98f63
+SHA256: 295a1f52f3f493d417148c9339beb85b69a0dc3efba867eaa6cb149db94bd804
+Section: 游戏(Games)
+Description: 王者农药上帝视角免费版
+Author: 卢本伟
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 王者农药上帝视角免费版
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.msdn
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.msdn_0.7_iphoneos-arm.deb
+Size: 1242552
+MD5sum: 78754940dac2b28a9d9f071cc29ce141
+SHA1: 333544f1b6ef2cb111a033e62f1a411cc884d9a7
+SHA256: d30588c8fa89a995e8ff01c903289137d0acb88b27319deac39773a85f1a2b3f
+Section: 游戏(Games)
+Author: msdn
+Depiction: 必须要安装屏蔽越狱插件
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 二批(鼠)0.7
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.pubgmobilenoblocking5
+Version: 1.0~full-3
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.pubgmobilenoblocking5_1.0~full-3_iphoneos-arm.deb
+Size: 12636
+MD5sum: 3fe1febf4409e45731ff750d9e842142
+SHA1: a761c2995d4dbf3bdda5725c06bb5e3a204774e6
+SHA256: 1b01b49aafd38635156d71f1194e201cf75dbb3dadf243cbd77895279b479510
+Section: 游戏(Games)
+Description: 定制长除草条
+Author: ADNANREFAEI
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 定制长除草条
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.pukgfunne
+Version: 0.18.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1744
+Depends: mobilesubstrate
+Filename: ./debs/aaron.pukgfunne_0.18.0-1+debug_iphoneos-arm.deb
+Size: 558476
+MD5sum: 61859e33e29fba4f6ed1723d1a792989
+SHA1: c5288168d6d48c208681b6eda6056a0dc431cc28
+SHA256: 5f3047f9c9dd768844eb3418286beda50be3d3c770319e79158005569288e140
+Section: 游戏(Games)
+Description: PUBGv18.2
+Author: @kgfunn and @7mo0dd9
+Icon: https://aaronc.cn/img/game2.jpg
+Name: Pubg Hack v0.18.0 English
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.pukgfunne
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/aaron.pukgfunne_1.0_iphoneos-arm.deb
+Size: 777608
+MD5sum: a0ac22743155121bf186a94650e2c5f2
+SHA1: 112b9dbf9b01a1c03bce3d1a1edabe61e1e47852
+SHA256: 2f6a71f0d1a39d44950ff5a95a74b431f59740e5fe95464dce0328351935723e
+Section: 游戏(Games)
+Description: Pubg
+Author: 卢本伟
+Icon: https://aaronc.cn/img/game2.jpg
+Name: GM半火白嫖
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.yaomei.laoshu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.yaomei.laoshu_1.0_iphoneos-arm.deb
+Size: 74280
+MD5sum: cf22a7900c1ada6026a85a04caf195e2
+SHA1: 02a2e55ae5abd300fc38916436fb1b65838f9f35
+SHA256: 2cf3c7461bdc7bfdf4b3ae09f95f12b288a1f22b6d8d95d3e35d5664a9e50df1
+Section: 游戏(Games)
+Description: A12国服透视，画质请调在高清极限开启按钮即可！
+Author: 卢本伟
+Icon: https://aaronc.cn/img/game2.jpg
+Name: A12透视
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.yourcompany
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.yourcompany_1.0_iphoneos-arm.deb
+Size: 5240
+MD5sum: 46a25f06dc72db307e6fbeb91ad91a8f
+SHA1: d99a41f713d6aca9366045bc1dce8336343397b5
+SHA256: fb44262e7f9635f075cb89ba26afb89ecbec6a47ef800adf51bb29bbf35f598a
+Section: 游戏(Games)
+Description: 稳如狗的国服国际服除草条
+Author: 卢本伟
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 稳如狗的国服国际服除草条
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.yourcompany.pubgkgfunn
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.yourcompany.pubgkgfunn_0.0.1_iphoneos-arm.deb
+Size: 808476
+MD5sum: e1564d9404cb0212073a7d96e2e2e4ef
+SHA1: ffd0e07fe9ce328755b158aaaa103a5259f7edb4
+SHA256: 8a377f6328c09c61d7deabe2781b4abb4b45150b524e684415e97d391a479b1c
+Section: 游戏(Games)
+Description: An awesome MobileSubstrate tweak!
+Author: jay
+Icon: https://aaronc.cn/img/game2.jpg
+Name: GM国服
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.zlwl.aipojie
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/aaron.zlwl.aipojie_1.0_iphoneos-arm.deb
+Size: 1074356
+MD5sum: 7703b0df586726ca0e60ee2a75f6816a
+SHA1: 0787639a0dcdda90d76c2c6041cc9904c9bb0852
+SHA256: 1bb34dc5e9d190ef183c193b721feef3f9479da1607e51774b851ae871724111
+Section: 游戏(Games)
+Description: 爱破解，通用破解大部分吃鸡王者辅助
+Author: 隔壁王大爷
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 通用破解大部分吃鸡王者辅助
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.zlwl.pubgm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/aaron.zlwl.pubgm_1.0_iphoneos-arm.deb
+Size: 2536788
+MD5sum: c8c66e18957b76adf7b67c8a5eef56e3
+SHA1: b26c75bc0d84a1316d95fc578fd802095e348860
+SHA256: c29f666c4d9e910edee1896f188e8c93905e1b3208413e76e27ab31289c6263e
+Section: 游戏(Games)
+Description: 自瞄无后除草速降331
+Author: 隔壁王大爷
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 自瞄无后除草速降
+Sileodepiction: https://aaronc.cn/sileo2.json
+
