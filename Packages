@@ -52,6 +52,41 @@ Icon: https://aaronc.cn/img/game2.jpg
 Name: PUBG MOBILE 0.18.0 Mod Menu
 Sileodepiction: https://aaronc.cn/sileo2.json
 
+Package: aaron.kw.tap.dylib
+Version: 0.15
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/aaron.kw.tap.dylib_0.15_iphoneos-arm.deb
+Size: 487504
+MD5sum: b40887bd3ed976a28c155df8a1dc0753
+SHA1: 5514269fce09bc696ff71fae19571156dbe51132
+SHA256: 3da936809393b9ee9783c881e2074625f2286df4b6ae7a824a4c973681832813
+Section: 游戏(Games)
+Homepage: kwtap
+Description: kwtap
+Icon: https://aaronc.cn/img/game2.jpg
+Name: PUBG-kw双防封
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.kwtap.dylib
+Version: 0.15
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/aaron.kwtap.dylib_0.15_iphoneos-arm.deb
+Size: 2325276
+MD5sum: 7714599f9db84875b17d950ec0802097
+SHA1: 16d1d6ca36a72c5dd59024a6b3d75ca8f2306083
+SHA256: c14168f6fdf9999bba87eb7946e4ef6f4d8b2a1d2f95e2aa243287b5351051a0
+Section: 游戏(Games)
+Description: 双防风kxc
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 双防风kxc
+Sileodepiction: https://aaronc.cn/sileo2.json
+
 Package: aaron.miduo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -123,6 +158,41 @@ Icon: https://aaronc.cn/img/game2.jpg
 Name: GM半火白嫖
 Sileodepiction: https://aaronc.cn/sileo2.json
 
+Package: aaron.pukgfunne.com
+Version: 0.18.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1744
+Depends: mobilesubstrate
+Filename: ./debs/aaron.pukgfunne.com_0.18.0-1+debug_iphoneos-arm.deb
+Size: 556948
+MD5sum: bbded70dcddf64cbe7ed4dd8de1d0ca8
+SHA1: 91bb03afb14bd97fd3a0577856284e4ca47f8c4e
+SHA256: 8f55aaed8b65509a56e82130e4c36e589dc3d66b20c261802c801266d52351f6
+Section: 游戏(Games)
+Description: PUBGv18.2 暴力挂
+Author: @kgfunn and @7mo0dd9
+Icon: https://aaronc.cn/img/game2.jpg
+Name: Pubg Hack 暴力挂
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.pukgfunne.com
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/aaron.pukgfunne.com_1.0_iphoneos-arm.deb
+Size: 809184
+MD5sum: be2e26ae58688f98141f837b5612d91d
+SHA1: d9706661e4a179579cbfc7f33f3ce49f8ad095cc
+SHA256: 46a4364d0b5dfffb7e60f49146c7f0c36d5900f9772681a03550ab53611f91dd
+Section: 游戏(Games)
+Description: Pubg
+Icon: https://aaronc.cn/img/game2.jpg
+Name: gm半火速降自秒
+Sileodepiction: https://aaronc.cn/sileo2.json
+
 Package: aaron.yaomei.laoshu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -163,15 +233,15 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/aaron.yourcompany.fengniao_0.0.1_iphoneos-arm.deb
-Size: 1852808
-MD5sum: 446af603a48082e6f3c65d3da4bd09de
-SHA1: 1730fe53d4111bda78111fec0fcf17c16abea820
-SHA256: 1ecf9517ab734ec0fbb01b69ee55139918e433ed549fe5706a8daf0d6d4dccb2
+Size: 1854624
+MD5sum: 2df3b9725e126fa2442b659cd6a1e3b0
+SHA1: c6f677b0dd88cb82dcaa23670b972546a90876c3
+SHA256: e547dc7dcba67b127524a79e493c793e407c6a5a87adeba0bea238c6da1f8ffd
 Section: 游戏(Games)
-Description: 单蜂鸟通用防封需要开飞行
+Description: 火力全开
 Author: jay
 Icon: https://aaronc.cn/img/game2.jpg
-Name: 单蜂鸟通用防封需要开飞行
+Name: 火力全开
 Sileodepiction: https://aaronc.cn/sileo2.json
 
 Package: aaron.yourcompany.pubgkgfunn
@@ -225,5 +295,23 @@ Description: 自瞄无后除草速降331
 Author: 隔壁王大爷
 Icon: https://aaronc.cn/img/game2.jpg
 Name: 自瞄无后除草速降
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.zlwl.pubgm
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/aaron.zlwl.pubgm_1.1.2_iphoneos-arm.deb
+Size: 733476
+MD5sum: 1d55f060951bfb41a01b51447b6fc45c
+SHA1: 490970493a8aa1128973d99d890e942f655a7aa4
+SHA256: 0d11377eff9fa92f1eb898183efbdb643efe5ebad65b523d767dba8bf888010a
+Section: 游戏(Games)
+Description: Pubg Hack
+Author: 隔壁老王
+Icon: https://aaronc.cn/img/game2.jpg
+Name: Pubg Hack
 Sileodepiction: https://aaronc.cn/sileo2.json
 
