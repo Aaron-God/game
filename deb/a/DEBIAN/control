@@ -1,11 +1,10 @@
-Package: aaron.miduo
-Name: 王者农药上帝视角免费版
+Package: aaron.yaomei.laoshu
+Name: 老鼠二批无视验证
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: 王者农药上帝视角免费版
-Author: 卢本伟
 Version: 1.0
-Installed-Size: 1064
+Architecture: iphoneos-arm
+Description: 欢迎使用，本插件老鼠破解版，无需输入激活码，画质请调在高清极限开启按钮即可！
+Author: 妖魅
 Maintainer: Aaron <851302227@qq.com>
 Section: 游戏(Games)
 Icon: https://aaronc.cn/img/game2.jpg
