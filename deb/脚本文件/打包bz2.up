@@ -1,0 +1,2 @@
+bash -c "cd /Users/aaron/Desktop/GitHub/game; ./.packages.sh; ./.bz.sh; ./.bz2.sh"
+exit

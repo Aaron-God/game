@@ -1,0 +1,2 @@
+bash -c "cd /Users/aaron/Desktop/github/game/deb; ./打包.sh"
+exit

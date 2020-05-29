@@ -1,0 +1,12 @@
+Package: aaron.miduo
+Name: 王者农药上帝视角免费版
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 王者农药上帝视角免费版
+Author: 卢本伟
+Version: 1.0
+Installed-Size: 1064
+Maintainer: Aaron <851302227@qq.com>
+Section: 游戏(Games)
+Icon: https://aaronc.cn/img/game2.jpg
+Sileodepiction: https://aaronc.cn/sileo2.json
