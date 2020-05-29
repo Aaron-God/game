@@ -16,6 +16,24 @@ Icon: https://aaronc.cn/img/game2.jpg
 Name: 懒人插件公开版
 Sileodepiction: https://aaronc.cn/sileo2.json
 
+Package: aaron.com.pukgfunne
+Version: 0.18.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Installed-Size: 1744
+Depends: mobilesubstrate
+Filename: ./debs/aaron.com.pukgfunne_0.18.0-1+debug_iphoneos-arm.deb
+Size: 1271436
+MD5sum: 8a3c1689483499e0b7b1724297338d42
+SHA1: d736f0c022a5bea855223cb7134489f7325af689
+SHA256: 356ee16e77335afe743b609a6d4dc4d18301c42bde708cc6dd8460c11532c805
+Section: 游戏(Games)
+Description: 小丑国际服高伤
+Author: @kgfunn and @7mo0dd9
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 小丑国际服高伤
+Sileodepiction: https://aaronc.cn/sileo2.json
+
 Package: aaron.gm
 Version: 2.0
 Architecture: iphoneos-arm
@@ -50,23 +68,6 @@ Description: 王者农药上帝视角免费版
 Author: 卢本伟
 Icon: https://aaronc.cn/img/game2.jpg
 Name: 王者农药上帝视角免费版
-Sileodepiction: https://aaronc.cn/sileo2.json
-
-Package: aaron.msdn
-Version: 0.7
-Architecture: iphoneos-arm
-Maintainer: Aaron <851302227@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/aaron.msdn_0.7_iphoneos-arm.deb
-Size: 1242552
-MD5sum: 78754940dac2b28a9d9f071cc29ce141
-SHA1: 333544f1b6ef2cb111a033e62f1a411cc884d9a7
-SHA256: d30588c8fa89a995e8ff01c903289137d0acb88b27319deac39773a85f1a2b3f
-Section: 游戏(Games)
-Author: msdn
-Depiction: 必须要安装屏蔽越狱插件
-Icon: https://aaronc.cn/img/game2.jpg
-Name: 二批(鼠)0.7
 Sileodepiction: https://aaronc.cn/sileo2.json
 
 Package: aaron.pubgmobilenoblocking5
@@ -128,15 +129,15 @@ Architecture: iphoneos-arm
 Maintainer: Aaron <851302227@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/aaron.yaomei.laoshu_1.0_iphoneos-arm.deb
-Size: 74280
-MD5sum: cf22a7900c1ada6026a85a04caf195e2
-SHA1: 02a2e55ae5abd300fc38916436fb1b65838f9f35
-SHA256: 2cf3c7461bdc7bfdf4b3ae09f95f12b288a1f22b6d8d95d3e35d5664a9e50df1
+Size: 74232
+MD5sum: fe947ffbd8d073becb0b71b793290206
+SHA1: 8147e6a9a9c96f63d33aecb63f1d607218d0652d
+SHA256: 69edb15316efec1ba6e0b02b6e8ae5fa69c5c18f562f0460470ed7c2473647c6
 Section: 游戏(Games)
-Description: A12国服透视，画质请调在高清极限开启按钮即可！
-Author: 卢本伟
+Description: 欢迎使用，本插件老鼠破解版，无需输入激活码，画质请调在高清极限开启按钮即可！
+Author: 妖魅
 Icon: https://aaronc.cn/img/game2.jpg
-Name: A12透视
+Name: 老鼠二批无视验证
 Sileodepiction: https://aaronc.cn/sileo2.json
 
 Package: aaron.yourcompany
@@ -154,6 +155,23 @@ Description: 稳如狗的国服国际服除草条
 Author: 卢本伟
 Icon: https://aaronc.cn/img/game2.jpg
 Name: 稳如狗的国服国际服除草条
+Sileodepiction: https://aaronc.cn/sileo2.json
+
+Package: aaron.yourcompany.fengniao
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.yourcompany.fengniao_0.0.1_iphoneos-arm.deb
+Size: 1852808
+MD5sum: 446af603a48082e6f3c65d3da4bd09de
+SHA1: 1730fe53d4111bda78111fec0fcf17c16abea820
+SHA256: 1ecf9517ab734ec0fbb01b69ee55139918e433ed549fe5706a8daf0d6d4dccb2
+Section: 游戏(Games)
+Description: 单蜂鸟通用防封需要开飞行
+Author: jay
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 单蜂鸟通用防封需要开飞行
 Sileodepiction: https://aaronc.cn/sileo2.json
 
 Package: aaron.yourcompany.pubgkgfunn
