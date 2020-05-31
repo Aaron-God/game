@@ -16,6 +16,23 @@ Icon: https://aaronc.cn/img/game2.jpg
 Name: 懒人插件公开版
 Sileodepiction: https://aaronc.cn/sileo2.json
 
+Package: aaron.chucaotoushitianhei
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Aaron <851302227@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/aaron.chucaotoushitianhei_0.3_iphoneos-arm.deb
+Size: 1937220
+MD5sum: b33ec7495ce41994095406e99ec44f8b
+SHA1: e1a0ba990c4f26775d22c04154c4d1411c9dfec4
+SHA256: 82fa326626afed13d7b227fc194b0329f7e9295fe626b6e97c8adfd7216c046f
+Section: 游戏(Games)
+Description: 自带防封
+Author: 梦三大牛
+Icon: https://aaronc.cn/img/game2.jpg
+Name: 超稳的除草透视天黑
+Sileodepiction: https://aaronc.cn/sileo2.json
+
 Package: aaron.com.pukgfunne
 Version: 0.18.0-1+debug
 Architecture: iphoneos-arm
